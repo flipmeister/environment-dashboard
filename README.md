@@ -14,6 +14,7 @@ Click on the Environment name to get a historical view of the deployments.
 ![Dashboard history](https://github.com/vipinsthename/environment-dashboard/raw/master/img/dashboard_history.png)
 
 ## Example set up ##
+I was here Atte Flipmeister
 
 You have 3 software components:
 * UI
